@@ -1,3 +1,0 @@
- In Python you can learn list knowledge
- In Python you can learn how to use a dictionary
- In Python you can learn object-oriented thinking
